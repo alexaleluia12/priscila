@@ -2,10 +2,10 @@
 
 
 Eu gosto muito do mercado de ações por isso iniciei esse projeto, continuação do meu TCC.
-Minha intensão era usar esse projeto comercialmente porém perdi o interese no seu proposito.
-Modelo autonomo (robo) que fala o momento e o que deve comprar/vender.
+Minha intensão era usar esse projeto comercialmente porém perdi o interesse no seu proposito.
+Modelo autônomo (robô) que fala o momento e o que deve comprar/vender.
 
-Desisite do projeto porque o Yahoo cortou a API publica de ações, o preço de uma api considero caro.
+Desisti do projeto porque o Yahoo cortou a API publica de ações, o preço de uma API considero caro.
 Também porque no longo prazo a compra constante de ações tem um bom resultado (Livro: O investidor inteligente, Benjamin Graham)
 
 Possui:
