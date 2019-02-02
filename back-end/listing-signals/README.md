@@ -1,3 +1,4 @@
+```txt
 status: pronto
     considera as emprejas cujos rsi foram calculados (view validos)
     deve ser rodados todos os dias logo apos a coleta do ultimo preco
@@ -20,3 +21,5 @@ CREATE TABLE `listing` (
   `type` CHAR(1) DEFAULT '0', -- B / S
   FOREIGN KEY(`owner`) REFERENCES `empresa`(`id`)
 )ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+```
