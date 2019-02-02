@@ -2,8 +2,8 @@
 	"description": "Projeto auxliar na bolsa de valores",
 	"name": "Priscila",
 	"type": "project",
-	"homepage": "https://www.filmecu.com/priscila/",
-	"license": "Privado",	
+	"homepage": "xxxxxxx",
+	"license": "MIT",	
 	"require": {
 		"phpmailer/phpmailer": "~6.0"
 	}
